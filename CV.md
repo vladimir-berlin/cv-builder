@@ -1,8 +1,8 @@
-**Volodymyr Bezkorovainyi**
+**Volodymyr Bezkorovainyi**\
 Berlin, Germany  
 German & Ukrainian Citizenship · Eligible to work in the EU without sponsorship  
-[vladimir.bezkorovainy@gmail.com](mailto:vladimir.bezkorovainy@gmail.com)<br>
-[https://linkedin.com/in/vladimir-bezkorovainyi](https://linkedin.com/in/vladimir-bezkorovainyi)<br>
+[vladimir.bezkorovainy@gmail.com](mailto:vladimir.bezkorovainy@gmail.com)\
+[https://linkedin.com/in/vladimir-bezkorovainyi](https://linkedin.com/in/vladimir-bezkorovainyi)\
 
 ## **Professional Summary**
 
