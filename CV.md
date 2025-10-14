@@ -60,6 +60,7 @@ English (fluent), German (intermediate, B1 certificate), Russian (native), Ukrai
 **Taras Shevchenko National University of Kyiv**, Faculty of Cybernetics, Ukraine
 
 ## **Professional Experience**
+##
 
 ### **Solution Architect – Digital Maps**
 
@@ -157,13 +158,6 @@ _Aug 2001 – Jul 2006_
 
 - Developed **desktop applications** and **Hewlett-Packard printer drivers** for Windows and macOS platforms.
 - Contributed to UI, performance, and system integration components.
-
-## **Education**
-
-**MSc in Computer Science**  
-**Taras Shevchenko National University of Kyiv**, Faculty of Cybernetics, Ukraine
-
-##
 
 ## **Key Projects**
 
