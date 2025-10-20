@@ -24,7 +24,7 @@ C++ · C# · Java · Scala · JavaScript/TypeScript · Python · Bash
 PostgreSQL · MongoDB · Oracle
 
 ### ☁️ Cloud & DevOps
-AWS · Docker · Kubernetes · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
+AWS · Docker · Kubernetes · Argo CD · Argo Workflow · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
 
 ### ⚙️ Embedded Systems
 C++ · CMake · QNX · Embedded Linux · Boost · Integration of navigation and map services
@@ -38,42 +38,7 @@ Java · Scala · Node.js · AngularJS · Maven · SBT · JavaScript/TypeScript
 ### Core Competencies:
 System Architecture · Technical Leadership · API Design · DevOps Culture · Scalable Software Delivery
 
-### 🧱 **Architecture & Backend**
-
-- **Languages:** Java (JVM), Scala, Python
-- **Architecture:** C4 Model, Architecture as Code (Structurizr), Domain-Driven Design, Event-Driven Architecture, REST
-
-### ☁️ Cloud & DevOps
-
-- Cloud: AWS
-- Containers & Orchestration: Docker, Kubernetes
-- CI/CD: Azure DevOps, GitHub, GitLab CI/CD
-
-### ⚙️ Embedded Systems
-
-- Languages: C++, Bash
-- Platforms: QNX, Embedded Linux
-- Frameworks/Tools: Qt, Boost, STL, GTest
-
-### 📱 Mobile Development
-
-- Languages: Java, C++, C#
-- Android: Android SDK, Dagger, Guava, Espresso, Robolectric, JUnit, Mockito
-- Windows: .NET (WPF), MSTest, NUnit, Moq
-
-### 🌐 Web Development
-
-- Languages: JavaScript, TypeScript
-- Frameworks & Tools: Node.js, Express, AngularJS, WebRTC, webpack, Mocha, Sinon, Nock
-
-### 🖥️ Desktop Applications
-
-- Languages: C++, C#, TCL, Shell (bash), SQL, XAML, XSLT, XSD, XPath
-- Platforms: Windows, macOS
-- Frameworks/Tech: .NET Framework, WPF, WinForms
-
 ## **Languages**
-
 English (fluent), German (intermediate, B1 certificate), Russian (native), Ukrainian (native)
 
 ## **Education**
@@ -93,8 +58,8 @@ _Jan 2020 – Present_
 - Spearheaded the architecture and delivery of the **Digital Maps platform** used across multiple Deutsche Bahn programs.
 - Built and led a **distributed development team** from the ground up, covering full-cycle delivery from technical vision to production deployment.
 - Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, and **embedded map components** for integration into real-time railway systems.
-- Acted as architect across programs such as _Sensors4Rail_, _Automated Train_, and _Digitaler Knoten Stuttgart_, collaborating closely with business, product, and operations stakeholders.
-- Initiated and led the **open-source release** of the onboard digital map API, contributing to cross-industry collaboration in the transportation and mobility sector.
+- Acted as architect across programs such as [Sensors4Rail](https://digitale-schiene-deutschland.de/en/projects/Sensors4Rail), [Automated Train](https://digitale-schiene-deutschland.de/en/news/2023/funding-fully-automated-train), and [Digital Knoten Stuttgart](https://digitale-schiene-deutschland.de/de/projekte/digitaler-knoten-stuttgart), collaborating closely with business, product, and operations stakeholders.
+- Initiated and led the **open-source release** of the [Onboard Map API GitHub](https://github.com/DSD-DBS/dbs-onboard-map-api)
 
 ### **Software Architect**
 
@@ -180,21 +145,3 @@ _Aug 2001 – Jul 2006_
 
 - Developed **desktop applications** and **Hewlett-Packard printer drivers** for Windows and macOS platforms.
 - Contributed to UI, performance, and system integration components.
-
-## **Key Projects**
-
-### **Automated Train**
-
-Architected the digital mapping subsystem for Germany’s first fully automated train pilot. [Automated Train](https://digitale-schiene-deutschland.de/en/news/2023/funding-fully-automated-train)
-
-### **Sensors4Rail**
-
-Delivered embedded mapping components and backend services to support real-time sensor-based navigation. [Sensors4Rail](https://digitale-schiene-deutschland.de/en/projects/Sensors4Rail)
-
-### **Digitaler Knoten Stuttgart**
-
-Provided architectural leadership for the deployment of digital rail infrastructure in the Stuttgart region. [Digital Knoten Stuttgart](https://digitale-schiene-deutschland.de/de/projekte/digitaler-knoten-stuttgart)
-
-### **Open Source – Onboard Map API**
-
-Initiated and led the open-source release of the dbs-onboard-map-api for digital map rendering on embedded devices. [Onboard Map API GitHub](https://github.com/DSD-DBS/dbs-onboard-map-api)
