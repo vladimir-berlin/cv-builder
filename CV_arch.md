@@ -14,29 +14,29 @@ Skilled in building and scaling cross-functional teams from the ground up — fr
 
 ## **Technical Skills**
 
-### 🧱 Architecture :
-Domain-Driven Design · Event-Driven Systems · REST APIs · C4 Model · Capella · Architecture as Code 
+### 🧱 Architecture
+Domain-Driven Design · Event-Driven Systems · REST APIs · C4 Model · Capella · Architecture as Code
 
-### 🧱 Programming Languages:
-C++ · C# · Java · Scala · TJavaScript/ypeScript  · Bash Script, · Python
+### 💻 Programming Languages
+C++ · C# · Java · Scala · JavaScript/TypeScript · Python · Bash
 
-### 🧱 Databases: 
-PostgreSQL · Mongo DB· Oracle DBMS
+### 🗄️ Databases
+PostgreSQL · MongoDB · Oracle
 
-### ☁️ Cloud & DevOps:
+### ☁️ Cloud & DevOps
 AWS · Docker · Kubernetes · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
 
-### ⚙️ Embedded:
-C++ · cmake · QNX, Embedded Linux · Boost · Integration of navigation and map services
+### ⚙️ Embedded Systems
+C++ · CMake · QNX · Embedded Linux · Boost · Integration of navigation and map services
 
 ### 📱 Mobile Development
-Java · C# · .NET · Android · Windows Phone· Implementing various navigation applications
+Java · C# · .NET · Android · Windows Phone · Navigation and mapping applications
 
-### 🌐 Web & Backend:
-Java · Scala · Maven · SBT · JavaScript/TypeScript · Node.js · AngularJS
+### 🌐 Web & Backend
+Java · Scala · Node.js · AngularJS · Maven · SBT · JavaScript/TypeScript
 
-Core Competencies:
-System Architecture · Team Leadership · API Design · DevOps Culture · Scalable Software Delivery
+### Core Competencies:
+System Architecture · Technical Leadership · API Design · DevOps Culture · Scalable Software Delivery
 
 ### 🧱 **Architecture & Backend**
 
