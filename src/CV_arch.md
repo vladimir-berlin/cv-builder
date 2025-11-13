@@ -43,11 +43,14 @@ System Architecture · Technical Leadership · API Design · DevOps Culture · S
 ### **Solution Architect, Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
 _Jan 2020 – Present_
 
-- Spearheaded the architecture and delivery of the **Digital Maps platform** used across multiple Deutsche Bahn programs.
-- Built and led a **distributed development team** from the ground up, covering full-cycle delivery from technical vision to production deployment.
+[S4R]: https://digitale-schiene-deutschland.de/en/projects/Sensors4Rail
+[DKS]: https://digitale-schiene-deutschland.de/de/projekte/digitaler-knoten-stuttgart
+[AT]: https://digitale-schiene-deutschland.de/en/news/2023/funding-fully-automated-train
+
+- Spearheaded the architecture and delivery of the Digital Maps platform used across multiple Deutsche Bahn programs ([Sensors4Rail](S4R), [Automated Train](AT), [Digital Knoten Stuttgart](DKS)), collaborating with business stakeholders and internal development teams. [Sensors4Rail](S4R) results were **successfully presented** at the [ITS Hamburg Congress 2021](https://www.hamburg.com/world-congress-2021-17226).
+- Led **open-source activities** for the Digital Maps component within [Sensors4Rail](S4R), which was released as open source [Onboard Map API GitHub](https://github.com/DSD-DBS/dbs-onboard-map-api) 
+- Established and scaled a distributed engineering team for the Digital Maps initiative. Started as the sole Solution Architect, recruited a remote development team and key internal engineers, and grew the organization to 10+ specialists responsible for end-to-end delivery of the Digital Maps solution for Deutsche Bahn.
 - Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, and **embedded map components** for integration into real-time railway systems.
-- Acted as architect across programs such as [Sensors4Rail](https://digitale-schiene-deutschland.de/en/projects/Sensors4Rail), [Automated Train](https://digitale-schiene-deutschland.de/en/news/2023/funding-fully-automated-train), and [Digital Knoten Stuttgart](https://digitale-schiene-deutschland.de/de/projekte/digitaler-knoten-stuttgart), collaborating closely with business, product, and operations stakeholders.
-- Initiated and led the **open-source release** of the [Onboard Map API GitHub](https://github.com/DSD-DBS/dbs-onboard-map-api)
 
 ### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
 _Oct 2018 – Dec 2019_
