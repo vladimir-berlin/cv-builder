@@ -40,7 +40,7 @@ System Architecture · Technical Leadership · API Design · DevOps Culture · S
 ## **Professional Experience**
 ##
 
-### **Solution Architect – Digital Maps, Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
+### **Solution Architect, Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
 _Jan 2020 – Present_
 
 - Spearheaded the architecture and delivery of the **Digital Maps platform** used across multiple Deutsche Bahn programs.
@@ -56,7 +56,7 @@ _Oct 2018 – Dec 2019_
 - Worked closely with customer and development teams to align navigation system architecture across cloud and embedded domains.
 - Led architectural onboarding and training for new team members, and established a structured **knowledge transfer process** between Luxoft and the client.
 
-### **Senior Software Engineer / Consultant, Meelogic Consulting AG** · Berlin, Germany
+### **Consultant, Meelogic Consulting AG** · Berlin, Germany
 _Dec 2016 – Sep 2018_
 
 - Delivered and integrated in-car navigation systems for major German OEMs (Audi, Porsche, VW) with HERE Technologies, developing and customizing embedded modules for routing, positioning, and guidance.
