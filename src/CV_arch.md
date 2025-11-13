@@ -79,12 +79,13 @@ _Apr 2015 – Aug 2016_
 - Fostered an engineering culture based on **CI/CD, code reviews, unit testing**, and clean code — embedding quality into the development process.
 
 ### **Team Lead / Senior Software Engineer, Nokia / HERE Technologies** · Berlin, Germany
+Nokia / HERE Technologies focused on building high-quality digital maps and location-based services for mobile platforms, delivering navigation, routing, and geospatial data used across major smartphone ecosystems globally.
+
 _Jul 2011 – Feb 2015_
 
+- Acted as a **technical expert in the Nokia API team during the Nokia–Microsoft integration effort**, enabling the adoption of Nokia Maps across Microsoft’s mobile platforms. The map services on Windows Phone 7/8 were powered by the APIs designed and implemented by our team.
 - Led and contributed to development of key navigation products including **HERE Maps for Android**, **HERE Drive+ for Windows Phone**, and **Nokia Maps API**.
 - Managed a team of 5 engineers; hired and onboarded talent; introduced **Kanban** and **TDD** practices to improve development efficiency and code quality.
-- Designed and maintained the **Nokia Maps API** portfolio for Microsoft and Samsung, ensuring cross-platform consistency and deep integration with HERE’s map platform.
-- Built tools for test automation, mocking map functionality, and automatic API documentation generation.
 - Collaborated closely with platform, UX, QA, and CI teams to ensure seamless delivery, high performance, and great user experience across devices.
 
 ### **Earlier experience as Team Lead and Senior Software Engineer, Quest Software** · Kyiv Region, Ukraine
