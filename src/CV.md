@@ -85,7 +85,7 @@ _Oct 2018 – Dec 2019_
 - Led architectural onboarding and training for new team members, and established a structured **knowledge transfer process** between Luxoft and the client.
 - Collaborated with cross-functional teams to define APIs and integration patterns for vehicle infotainment systems.
 
-### **Senior Software Engineer / Consultant**
+### **Consultant**
 
 ### **Meelogic Consulting AG** · Berlin, Germany
 
