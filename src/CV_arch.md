@@ -41,6 +41,8 @@ System Architecture · Technical Leadership · API Design · DevOps Culture · S
 ##
 
 ### **Solution Architect, Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
+DBS develops cutting-edge technology systems for autonomous train operations, including computer vision, object detection, advanced positioning algorithms, and **in-house developed high-precision 3D mapping with dedicated processing pipelines, enriched with both infrastructural and dynamic data**.
+
 _Jan 2020 – Present_
 
 [S4R]: https://digitale-schiene-deutschland.de/en/projects/Sensors4Rail
@@ -53,6 +55,9 @@ _Jan 2020 – Present_
 - Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, and **embedded map components** for integration into real-time railway systems.
 
 ### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
+HERE Technologies is one of the world’s leading automotive navigation providers, powering around 59% of all in-vehicle navigation systems in Europe.
+If you drive a recent Audi, Volkswagen, or Mercedes-Benz, there’s a strong chance the map features you see were part of the solutions I contributed to.
+
 _Oct 2018 – Dec 2019_
 
 - Designed system architecture for integration of the **HERE navigation platform** into automotive embedded and cloud environments.
