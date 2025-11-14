@@ -48,9 +48,11 @@ _Jan 2020 – Present_
 [S4R]: https://digitale-schiene-deutschland.de/en/projects/Sensors4Rail
 [DKS]: https://digitale-schiene-deutschland.de/de/projekte/digitaler-knoten-stuttgart
 [AT]: https://digitale-schiene-deutschland.de/en/news/2023/funding-fully-automated-train
+[Congress]: https://www.hamburg.com/world-congress-2021-17226
+[MAP_API]: https://github.com/DSD-DBS/dbs-onboard-map-api
 
-- Spearheaded the architecture and delivery of the Digital Maps platform used across multiple Deutsche Bahn programs ([Sensors4Rail](S4R), [Automated Train](AT), [Digital Knoten Stuttgart](DKS)), collaborating with business stakeholders including **Bosch and Siemens**,  alongside internal development teams. [Sensors4Rail](S4R) results were **successfully presented** at the [ITS Hamburg Congress 2021](https://www.hamburg.com/world-congress-2021-17226).
-- Led **open-source activities** for the Digital Maps component within [Sensors4Rail](S4R), which was released as open source [Onboard Map API GitHub](https://github.com/DSD-DBS/dbs-onboard-map-api) 
+- Spearheaded the architecture and delivery of the Digital Maps platform used across multiple Deutsche Bahn programs ([Sensors4Rail][S4R], [Automated Train][AT], [Digital Knoten Stuttgart][DKS]), collaborating with business stakeholders including **Bosch and Siemens**,  alongside internal development teams. [Sensors4Rail][S4R] results were **successfully presented** at the [ITS Hamburg Congress 2021][Congress].
+- Led **open-source activities** for the Digital Maps component within [Sensors4Rail][S4R], which was released as open source [Onboard Map API GitHub][MAP_API] 
 - Established and scaled a distributed engineering team for the Digital Maps initiative. Started as the sole Solution Architect, recruited a remote development team and key internal engineers, and grew the organization to 10+ specialists responsible for end-to-end delivery of the Digital Maps solution for Deutsche Bahn.
 - Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, and **embedded map components** for integration into real-time railway systems.
 
