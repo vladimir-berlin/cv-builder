@@ -31,32 +31,18 @@ The script uses a template from the `template` folder to produce nicely formatte
 └── README.md
 ```
 
-## Prerequisites
-
-Make sure the following tools are installed before running the generator script:
-
 ### **Required**
 - **Pandoc** – used to convert Markdown into DOCX and PDF  
   Install from: https://pandoc.org/installing.html
-
-### **PDF Generation (if your script produces PDF)**
-Depending on how PDF output is configured in `generate.sh`, you will need one of the following:
-
-- **Tectonic** (recommended for simplicity)  
-  https://tectonic-typesetting.github.io/en-US/install.html
-
-**or**
-
-- A LaTeX distribution such as:  
-  - **TeX Live** (Linux/macOS)  
-  - **MacTeX** (macOS)  
-  - **MiKTeX** (Windows)  
-
-These are required because Pandoc relies on a LaTeX engine to generate PDFs unless another PDF backend is used.
+- **pre-commit hook** – ensures documents are generated automatically when files change
 
 ---
 
-Once these tools are installed, you can run the script normally:
+### **How It Works**
+You **should not run the script manually**.
 
-```bash
-./scripts/generate.sh
+The generation process is handled automatically by the pre-commit hook:
+
+- Whenever a file is **added or modified in the `src/` folder**, the `generate.sh` script is executed.
+- A **DOCX file** is automatically created and stored in the `generated/` folder.
+- The **`good_to_go/` folder** serves as a release area for manually reviewed CVs, where you can also export them to PDF.
