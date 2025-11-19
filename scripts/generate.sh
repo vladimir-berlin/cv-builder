@@ -1,8 +1,10 @@
 #!/bin/bash
 SRC_NAME=CV_arch
 
-SRC=src/$SRC_NAME.md
-DST=generated/$SRC_NAME.docx
+BASE_PATH=`pwd`
+SRC=$BASE_PATH/src/$SRC_NAME.md
+DST=$BASE_PATH/generated/$SRC_NAME.docx
+PDF=$BASE_PATH/generated/$SRC_NAME.pdf
 
 TEMPLATE=templates/reference_clean_A4_lists_tight.docx
 
