@@ -1,11 +1,11 @@
 #!/bin/bash
-SRC_NAME=CV_arch
+echo "$@"
 
 BASE_PATH=`pwd`
-SRC=$BASE_PATH/src/$SRC_NAME.md
-DST=$BASE_PATH/generated/$SRC_NAME.docx
-PDF=$BASE_PATH/generated/$SRC_NAME.pdf
+echo "----------------------------------"
+echo $BASE_PATH
 
-TEMPLATE=templates/reference_clean_A4_lists_tight.docx
-
-pandoc $SRC --reference-doc=$TEMPLATE -f markdown+autolink_bare_uris -t docx -o $DST
+for file in "$@"; do
+    echo "Processing $file"
+    $BASE_PATH/scripts/generate_one.sh $file
+done
