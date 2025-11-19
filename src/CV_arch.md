@@ -7,7 +7,7 @@ Languages: English (fluent), German (intermediate, B1 certificate), Russian (nat
 
 ## **Professional Summary**
 
-Solution and Software Architect with over 20 years of experience delivering large-scale systems across cloud, embedded, and web platforms. **Extensive background in digital maps and navigation**, having contributed to platforms used by Microsoft, major automotive OEMs, and Deutsche Bahn through roles at Nokia, HERE Technologies, and Deutsche Bahn.
+Hands-on Solution and Software Architect with over 20 years of experience delivering large-scale systems across cloud, embedded, and web platforms. **Extensive background in digital maps and navigation**, having contributed to platforms used by Microsoft, major automotive OEMs, and Deutsche Bahn through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
 Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture. 
 
