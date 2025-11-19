@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: generate
+        name: Run generator on changed src files
+        entry: scripts/generate.sh
+        language: script
+        pass_filenames: true
+        files: ^src/
