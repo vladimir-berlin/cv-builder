@@ -1,15 +1,18 @@
 **Volodymyr Bezkorovainyi**\
 Berlin, Germany  
-German & Ukrainian Citizenship · Eligible to work in the EU without sponsorship  
+German Citizenship · Eligible to work in the EU without sponsorship  
 [vladimir.bezkorovainy@gmail.com](mailto:vladimir.bezkorovainy@gmail.com)\
 [https://linkedin.com/in/vladimir-bezkorovainyi](https://linkedin.com/in/vladimir-bezkorovainyi)\
 Languages: English (fluent), German (intermediate, B1 certificate), Russian (native)
+
 
 ## **Professional Summary**
 
 Hands-on Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. **Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
 Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture. 
+
+<!-- **Core Competencies:** Leadership & Team Building · Cost Optimization · 3D Digital Twin · Autonomous Vehicle Systems (Autonomous Train) · AI (Computer Vision in Railway system) · Railway systems -->
 
 ## **Technical Skills**
 
@@ -21,11 +24,9 @@ Skilled in building and scaling cross-functional teams from the ground up — fr
 - **📱 Mobile Development:** Java · C# · .NET · Android · Windows Phone · Navigation and mapping applications
 - **🌐 Web & Backend:** Java · Scala · Node.js · AngularJS · Maven · SBT · JavaScript/TypeScript
 
-<!-- ### Core Competencies:
-System Architecture · Technical Leadership · API Design · DevOps Culture · Scalable Software Delivery -->
+
 
 ## **Professional Experience**
-##
 
 ### **Solution Architect, Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
 DBS develops cutting-edge technology systems for autonomous train operations, including computer vision, object detection, advanced positioning algorithms, and **in-house developed high-precision 3D mapping with dedicated processing pipelines, enriched with both infrastructural and dynamic data**.
@@ -91,5 +92,4 @@ _Aug 2001 – Jul 2011_
 
 - Led development of infrastructure automation tools including **Quest Cloud Automation Platform**, **vOptimizer**, and **vConverter**, targeting large-scale hybrid IT environments.
 - Developed backend connectors and synchronization logic for integrating Oracle and Deltek CRM systems with Microsoft Outlook.
-- Developed components for manufacturing process planning (MRP) system, including database queries, custom tools, and UI logic.
-- Developed **desktop applications** and **Hewlett-Packard printer drivers** for Windows and macOS platforms.
+- Developed components for manufacturing process planning (MRP) system, **desktop applications** and **Hewlett-Packard printer drivers** for Windows and macOS platforms.
