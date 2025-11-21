@@ -7,7 +7,7 @@ Languages: English (fluent), German (intermediate, B1 certificate), Russian (nat
 
 ## **Professional Summary**
 
-Hands-on Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. **Extensive background in digital maps and navigation**, having contributed to platforms used by Microsoft, major automotive OEMs, and Deutsche Bahn through roles at Nokia, HERE Technologies, and Deutsche Bahn.
+Hands-on Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. **Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
 Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture. 
 
@@ -51,9 +51,17 @@ _Jan 2020 – Present_
 [Congress]: https://www.hamburg.com/world-congress-2021-17226
 [MAP_API]: https://github.com/DSD-DBS/dbs-onboard-map-api
 
+#### Cost Optimization:
+- Reduced annual **development costs by ˜25%** (several hundred thousand EUR) by transitioning key map-related development from a third-party vendor to an in-house engineering team in Deutsche Bahn.
+#### Leadership & Team Building:
+- Established and scaled a distributed engineering team for the Digital Maps initiative. Started as the sole Solution Architect and **built the organization from scratch into a team of 10+ internal and external developers and architects**, responsible for the development and delivery of the Digital Maps solution for Deutsche Bahn and partners such as Bosch and Siemens.
+#### Development Efficiency & Platform Consolidation:
+- Delivered a **2× improvement in development efficiency** by identifying and stopping two parallel workstreams building similar geospatial storage solutions; aligned stakeholders across teams and led development of a unified, generic geospatial storage platform that provided full coverage of all project requirements and was later successfully integrated into the visualization engine.
+#### Architecture & Program Delivery:**
 - Spearheaded the architecture and delivery of the Digital Maps platform used across multiple Deutsche Bahn programs ([Sensors4Rail][S4R], [Automated Train][AT], [Digital Knoten Stuttgart][DKS]), collaborating with business stakeholders including **Bosch and Siemens**,  alongside internal development teams. [Sensors4Rail][S4R] results were **successfully presented** at the [ITS Hamburg Congress 2021][Congress].
+#### Open Source & External Collaboration:
 - Led **open-source activities** for the Digital Maps component within [Sensors4Rail][S4R], which was released as open source [Onboard Map API GitHub][MAP_API] 
-- Established and scaled a distributed engineering team for the Digital Maps initiative. Started as the sole Solution Architect, recruited a remote development team and key internal engineers, and grew the organization to 10+ specialists responsible for end-to-end delivery of the Digital Maps solution for Deutsche Bahn.
+#### Cloud, Backend & Embedded Architecture:
 - Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, and **embedded map components** for integration into real-time railway systems.
 
 ### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
