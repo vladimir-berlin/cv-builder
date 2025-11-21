@@ -16,15 +16,13 @@ Skilled in building and scaling cross-functional teams from the ground up — fr
 
 ## **Technical Skills**
 
-- **🧱 Architecture:** Domain-Driven Design · Event-Driven Systems · REST APIs · C4 Model · Capella · Architecture as Code
-- **💻 Programming Languages:** C++ · C# · Java · Scala · JavaScript/TypeScript · Python · Bash
-- **🗄️ Databases:** PostgreSQL · MongoDB · Oracle
-- **☁️ Cloud & DevOps:** AWS · Docker · Kubernetes · Argo CD · Argo Workflow · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
-- **⚙️ Embedded Systems:** C++ · CMake · QNX · Embedded Linux · Boost · Integration of navigation and map services
-- **📱 Mobile Development:** Java · C# · .NET · Android · Windows Phone · Navigation and mapping applications
-- **🌐 Web & Backend:** Java · Scala · Node.js · AngularJS · Maven · SBT · JavaScript/TypeScript
-
-
+- **Architecture:** Domain-Driven Design · Event-Driven Systems · REST APIs · C4 Model · Capella · Architecture as Code
+- **Programming Languages:** C++ · C# · Java · Scala · JavaScript/TypeScript · Python · Bash
+- **Databases:** PostgreSQL · MongoDB · Oracle
+- **Cloud & DevOps:** AWS · Docker · Kubernetes · Argo CD · Argo Workflow · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
+- **Embedded Systems:** C++ · CMake · QNX · Embedded Linux · Boost · Integration of navigation and map services
+- **Mobile Development:** Java · C# · .NET · Android · Windows Phone · Navigation and mapping applications
+- **Web & Backend:** Java · Scala · Node.js · AngularJS · Maven · SBT · JavaScript/TypeScript
 
 ## **Professional Experience**
 
