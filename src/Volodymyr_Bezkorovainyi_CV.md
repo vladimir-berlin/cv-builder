@@ -8,7 +8,11 @@ Languages: English (fluent), German (intermediate, B1 certificate), Russian (nat
 
 ## **Professional Summary**
 
-Hands-on Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. **Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
+Hands-on Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. 
+
+Over the last 6 years at Deutsche Bahn, worked at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
+
+**Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
 Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture. 
 
@@ -20,7 +24,7 @@ Skilled in building and scaling cross-functional teams from the ground up — fr
 - **Programming Languages:** C++ · C# · Java · Scala · JavaScript/TypeScript · Python · Bash
 - **Databases:** PostgreSQL · MongoDB · Oracle
 - **Cloud & DevOps:** AWS · Docker · Kubernetes · Argo CD · Argo Workflow · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
-- **Embedded Systems:** C++ · CMake · QNX · Embedded Linux · Boost · Integration of navigation and map services
+- **IoT & Embedded:** C++ · CMake · Robot Operating System · QNX · Embedded Linux · Boost · Integration of navigation and map services
 - **Mobile Development:** Java · C# · .NET · Android · Windows Phone · Navigation and mapping applications
 - **Web & Backend:** Java · Scala · Node.js · AngularJS · Maven · SBT · JavaScript/TypeScript
 
