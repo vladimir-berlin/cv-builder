@@ -12,6 +12,8 @@ Hands-on Solution and Software Architect with over 20 years of experience delive
 
 Over the last 6 years at Deutsche Bahn, worked at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
 
+Experience working in customer-facing roles, supporting early-stage solution validation, architecture reviews, and technical decision-making.
+
 **Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
 Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture. 
@@ -23,7 +25,7 @@ Skilled in building and scaling cross-functional teams from the ground up — fr
 - **Architecture:** Domain-Driven Design · Event-Driven Systems · REST APIs · C4 Model · Capella · Architecture as Code
 - **Programming Languages:** C++ · C# · Java · Scala · JavaScript/TypeScript · Python · Bash
 - **Databases:** PostgreSQL · MongoDB · Oracle
-- **Cloud & DevOps:** AWS · Docker · Kubernetes · Argo CD · Argo Workflow · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
+- **Cloud & DevOps:** AWS · AWS IAM (RBAC) · Docker · Kubernetes · Argo CD · Argo Workflow · CI/CD (Azure DevOps, GitHub, GitLab, Jenkins) · Infrastructure as Code
 - **IoT & Embedded:** C++ · CMake · Robot Operating System · QNX · Embedded Linux · Boost · Integration of navigation and map services
 - **Mobile Development:** Java · C# · .NET · Android · Windows Phone · Navigation and mapping applications
 - **Web & Backend:** Java · Scala · Node.js · AngularJS · Maven · SBT · JavaScript/TypeScript
@@ -44,6 +46,9 @@ _Jan 2020 – Present_
 - **Cost Optimization:**
 Reduced annual **development costs by ˜25%** (several hundred thousand EUR) by transitioning key map-related development from a third-party vendor to an in-house engineering team in Deutsche Bahn.
 
+- **Customer-facing technical leadership:**
+Led customer-facing technical engagements and architecture reviews with internal stakeholders and external partners (Bosch, Siemens), including early-stage solution validation, proof-of-concept work, and technical alignment prior to large-scale rollout.
+
 - **Leadership & Team Building:**
 Established and scaled a distributed engineering team for the Digital Maps initiative. Started as the sole Solution Architect and **built the organization from scratch into a team of 10+ internal and external developers and architects**, responsible for the development and delivery of the Digital Maps solution for Deutsche Bahn and partners such as Bosch and Siemens.
 
@@ -59,7 +64,7 @@ Spearheaded the architecture and delivery of the Digital Maps platform used acro
 Led **open-source activities** for the Digital Maps component within [Sensors4Rail][S4R], which was released as open source [Onboard Map API GitHub][MAP_API] 
 
 - **Cloud, Backend & Embedded Architecture:**
-Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, and **embedded map components** for integration into real-time railway systems.
+Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, including **Kubernetes security configuration, secrets and key management**, and access control. Designed and integrated **embedded** map components for real-time railway systems, bridging cloud-based platforms with on-board and edge environments.
 
 ### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
 HERE Technologies is one of the world’s leading automotive navigation providers, powering around 59% of all in-vehicle navigation systems in Europe.
@@ -83,7 +88,7 @@ Nokia / HERE Technologies focused on building high-quality digital maps and loca
 
 _Jul 2011 – Feb 2015_
 
-- Acted as a **technical expert in the Nokia API team during the Nokia–Microsoft integration effort**, enabling the adoption of Nokia Maps across Microsoft’s mobile platforms. The map services on Windows Phone 7/8 were powered by the APIs designed and implemented by our team.
+- Acted as a **technical expert in the Nokia API team during the Nokia–Microsoft integration effort**, enabling the adoption of Nokia Maps across Microsoft’s mobile platforms. 
 - Led and contributed to development of key navigation products including **HERE Maps for Android**, **HERE Drive+ for Windows Phone**, and **Nokia Maps API**.
 - Managed a team of 5 engineers; hired and onboarded talent; introduced **Kanban** and **TDD** practices to improve development efficiency and code quality.
 - Collaborated closely with platform, UX, QA, and CI teams to ensure seamless delivery, high performance, and great user experience across devices.
@@ -91,7 +96,7 @@ _Jul 2011 – Feb 2015_
 ### **Earlier experience as Team Lead and Senior Software Engineer, Quest Software** · Kyiv Region, Ukraine
 ### Companies: Quest Software, InvisibleCRM, Visiprise, Software MacKiev
 _Aug 2001 – Jul 2011_
-
+<!-- 
 - Led development of infrastructure automation tools including **Quest Cloud Automation Platform**, **vOptimizer**, and **vConverter**, targeting large-scale hybrid IT environments.
 - Developed backend connectors and synchronization logic for integrating Oracle and Deltek CRM systems with Microsoft Outlook.
-- Developed components for manufacturing process planning (MRP) system, **desktop applications** and **Hewlett-Packard printer drivers** for Windows and macOS platforms.
+- Developed components for manufacturing process planning (MRP) system, **desktop applications** and **Hewlett-Packard printer drivers** for Windows and macOS platforms. -->
