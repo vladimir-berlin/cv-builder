@@ -8,15 +8,17 @@ Languages: English (fluent), German (intermediate, B1 certificate), Russian (nat
 
 ## **Professional Summary**
 
-Hands-on Principal-level Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. 
+Hands-on Principal Software Engineer and Software Architect with over 20 years of experience designing and shipping complex systems across cloud, embedded, and web platforms. 
 
-Over the last 6 years at Deutsche Bahn, led architecture and delivery at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
+Over the last 6 years at Deutsche Bahn, led design and delivery at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
+
+I enjoy working in environments with high ownership, minimal process, and significant technical and product ambiguity, where engineers are responsible for understanding user problems, designing pragmatic solutions, and delivering production software quickly and iteratively.
 
 Experience working in customer-facing roles, supporting early-stage solution validation, architecture reviews, and technical decision-making.
 
 **Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
-Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture. 
+Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on building reliable systems that deliver measurable impact for users and teams.
 
 <!-- **Core Competencies:** Leadership & Team Building · Cost Optimization · 3D Digital Twin · Autonomous Vehicle Systems (Autonomous Train) · AI (Computer Vision in Railway system) · Railway systems -->
 
@@ -32,7 +34,7 @@ Skilled in building and scaling cross-functional teams from the ground up — fr
 
 ## **Professional Experience**
 
-### **Solution Architect(Principal Engineer–level responsibilities), Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
+### **Solution Architect (Principal Engineer–level responsibilities), Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
 DBS develops cutting-edge technology systems for autonomous train operations, including computer vision, object detection, advanced positioning algorithms, and **in-house developed high-precision 3D mapping with dedicated processing pipelines, enriched with both infrastructural and dynamic data**.
 
 _Jan 2020 – Present_
@@ -43,6 +45,7 @@ _Jan 2020 – Present_
 [Congress]: https://www.hamburg.com/world-congress-2021-17226
 [MAP_API]: https://github.com/DSD-DBS/dbs-onboard-map-api
 
+<!--
 - **Cost Optimization:**
 Reduced annual **development costs by ˜25%** (several hundred thousand EUR) by transitioning key map-related development from a third-party vendor to an in-house engineering team in Deutsche Bahn.
 
@@ -52,7 +55,8 @@ Led customer-facing technical engagements and architecture reviews with internal
 - **Leadership & Team Building:**
 Established and scaled a distributed engineering team for the Digital Maps initiative. Started as the sole Solution Architect and **built the organization from scratch into a team of 10+ internal and external developers and architects**, responsible for the development and delivery of the Digital Maps solution for Deutsche Bahn and partners such as Bosch and Siemens.
 
- - **R&D and Innovation:** Led the creation of a high-definition 3D digital twin of the German railway infrastructure, used extensively for autonomous train R&D — including localization, perception, simulation, and **AI / computer vision** pipelines across internal DB teams and external partners.
+ - **R&D and Innovation:** 
+ Led the creation of a high-definition 3D digital twin of the German railway infrastructure, used extensively for autonomous train R&D — including localization, perception, simulation, and **AI / computer vision** pipelines across internal DB teams and external partners.
 
 - **Development Efficiency & Platform Consolidation:**
 Delivered a **2× improvement in development efficiency** by identifying and stopping two parallel workstreams building similar geospatial storage solutions; aligned stakeholders across teams and led development of a unified, generic geospatial storage platform that provided full coverage of all project requirements and was later successfully integrated into the visualization engine.
@@ -64,7 +68,31 @@ Spearheaded the architecture and delivery of the Digital Maps platform used acro
 Led **open-source activities** for the Digital Maps component within [Sensors4Rail][S4R], which was released as open source [Onboard Map API GitHub][MAP_API] 
 
 - **Platform Architecture across Cloud & Embedded/Edge Systems:**
-Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, including **Kubernetes security configuration, secrets and key management**, and access control. Designed and integrated **embedded** map components for real-time railway systems, bridging cloud-based platforms with on-board and edge environments.
+Designed and shipped backend services powering high-precision mapping workflows used by scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, including **Kubernetes security configuration, secrets and key management**, and access control. Designed and integrated **embedded** map components for real-time railway systems, bridging cloud-based platforms with on-board and edge environments.
+-->
+- **Digital Maps Platform (Design and Delivery):**
+Designed and shipped a production digital-maps platform used across multiple Deutsche Bahn programs, translating evolving requirements from research and operational teams into scalable backend services, data pipelines, and developer APIs adopted by several engineering teams and external partners. Personally implemented core backend components and APIs and contributed to system design, reliability, and deployment automation.
+
+- **Backend and Cloud Systems:**
+Designed and implemented backend services and cloud infrastructure (AWS, Kubernetes, PostgreSQL) supporting large-scale geospatial processing and real-time workflows. Focused on reliability, observability, deployment automation, and improving developer productivity across teams using the platform.
+
+- **Stakeholder Collaboration and Iteration:**
+Worked directly with internal stakeholders and partner organizations (Bosch, Siemens) to understand operational workflows, prototype solutions, and iterate on system behavior based on real usage and feedback, ensuring delivered features solved real operational problems and could be adopted in production environments.
+
+- **Platform Consolidation and Efficiency:**
+Identified duplicated platform efforts across teams and designed and delivered a unified geospatial storage and processing platform, improving development efficiency by approximately 2× and simplifying downstream application development.
+
+- **3D Digital Twin Platform:**
+Led design and development of a high-definition 3D digital-twin platform used for localization, simulation, and perception workflows, collaborating closely with researchers and engineers to evolve system capabilities as requirements and use cases matured.
+
+- **Cost Optimization:**
+Reduced annual development costs by ~25% by transitioning critical components from external vendors to an in-house engineering team while maintaining delivery timelines, system reliability, and feature velocity.
+
+- **Team Building and Hands-on Delivery:**
+Built and grew a distributed engineering team that delivered the platform from initial concept to multi-team adoption, while remaining actively involved in architecture, implementation, and technical decision-making.
+
+- **Open Source Contribution:**
+Led open-source release of a core API component, enabling external collaboration, reuse across related projects, and improved interoperability with partner systems.
 
 ### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
 HERE Technologies is one of the world’s leading automotive navigation providers, powering around 59% of all in-vehicle navigation systems in Europe.
@@ -78,10 +106,21 @@ _Oct 2018 – Dec 2019_
 
 ### **Head of Engineering, Phonedeck (Tech Startup)** · Berlin, Germany
 _Apr 2015 – Aug 2016_
+- **Product Development and Delivery:**
+Led engineering for a startup developing telephony and CRM integration products, working closely with product and business stakeholders to define features, prioritize work, and deliver production systems used by enterprise customers.
 
-- Led the engineering department of a Berlin-based startup developing solutions at the intersection of mobile communications, telephony services, and CRM integration.
+- **Full Lifecycle Ownership:**
+Oversaw the full software development lifecycle—from product definition and architecture to implementation, deployment, and operational support—across backend services and integrations.
+
+- **Hands-on Engineering and System Design:**
+Contributed to system design and implementation of backend services and integrations, ensuring reliability, scalability, and maintainability of the platform.
+
+- **External Partnerships and Delivery:**
+Directed development and delivery of telephony services in partnership with Ericsson, with the solution successfully showcased at Mobile World Congress 2016.
+
+<!-- - Led the engineering department of a Berlin-based startup developing solutions at the intersection of mobile communications, telephony services, and CRM integration.
 - Oversaw **R&D and the full software development lifecycle**, from product definition to deployment.
-- Directed development and successful delivery of **telephony services in partnership with Ericsson**, showcased at **Mobile World Congress 2016**.
+- Directed development and successful delivery of **telephony services in partnership with Ericsson**, showcased at **Mobile World Congress 2016**. -->
 
 ### **Team Lead / Senior Software Engineer, Nokia / HERE Technologies** · Berlin, Germany
 Nokia / HERE Technologies focused on building high-quality digital maps and location-based services for mobile platforms, delivering navigation, routing, and geospatial data used across major smartphone ecosystems globally.
