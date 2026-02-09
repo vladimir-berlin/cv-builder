@@ -7,8 +7,15 @@ Languages: English (fluent), German (intermediate, B1 certificate), Russian (nat
 
 
 ## **Professional Summary**
+Hands-on Principal Software Engineer with over 20 years of experience designing and shipping complex systems across cloud, embedded, and web platforms.
 
-Hands-on Principal Software Engineer and Software Architect with over 20 years of experience designing and shipping complex systems across cloud, embedded, and web platforms. 
+Over the last 6 years at Deutsche Bahn, led the design and delivery of distributed systems supporting autonomous train operations and high-precision mapping platforms, working at the intersection of IoT, AI/computer vision, and cloud technologies.
+
+I thrive in environments with high ownership, minimal process, and significant technical and product ambiguity, where engineers are responsible for understanding user problems and delivering production software quickly and iteratively.
+
+Extensive background in digital maps and navigation, having contributed to platforms used by Microsoft, major automotive OEMs, and Deutsche Bahn. Focused on building reliable systems that solve real operational problems and deliver measurable impact for users and engineering teams.
+
+<!-- Hands-on Principal Software Engineer and Software Architect with over 20 years of experience designing and shipping complex systems across cloud, embedded, and web platforms. 
 
 Over the last 6 years at Deutsche Bahn, led design and delivery at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
 
@@ -18,7 +25,7 @@ Experience working in customer-facing roles, supporting early-stage solution val
 
 **Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
-Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on building reliable systems that deliver measurable impact for users and teams.
+Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on building reliable systems that deliver measurable impact for users and teams. -->
 
 <!-- **Core Competencies:** Leadership & Team Building · Cost Optimization · 3D Digital Twin · Autonomous Vehicle Systems (Autonomous Train) · AI (Computer Vision in Railway system) · Railway systems -->
 
