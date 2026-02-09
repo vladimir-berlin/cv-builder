@@ -8,9 +8,9 @@ Languages: English (fluent), German (intermediate, B1 certificate), Russian (nat
 
 ## **Professional Summary**
 
-Hands-on Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. 
+Hands-on Principal-level Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. 
 
-Over the last 6 years at Deutsche Bahn, worked at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
+Over the last 6 years at Deutsche Bahn, led architecture and delivery at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
 
 Experience working in customer-facing roles, supporting early-stage solution validation, architecture reviews, and technical decision-making.
 
@@ -32,7 +32,7 @@ Skilled in building and scaling cross-functional teams from the ground up — fr
 
 ## **Professional Experience**
 
-### **Solution Architect, Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
+### **Solution Architect(Principal Engineer–level responsibilities), Deutsche Bahn (Digital Schiene Deutschland)** · Berlin, Germany
 DBS develops cutting-edge technology systems for autonomous train operations, including computer vision, object detection, advanced positioning algorithms, and **in-house developed high-precision 3D mapping with dedicated processing pipelines, enriched with both infrastructural and dynamic data**.
 
 _Jan 2020 – Present_
@@ -63,7 +63,7 @@ Spearheaded the architecture and delivery of the Digital Maps platform used acro
 - **Open Source & External Collaboration:**
 Led **open-source activities** for the Digital Maps component within [Sensors4Rail][S4R], which was released as open source [Onboard Map API GitHub][MAP_API] 
 
-- **Cloud, Backend & Embedded Architecture:**
+- **Platform Architecture across Cloud & Embedded/Edge Systems:**
 Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, including **Kubernetes security configuration, secrets and key management**, and access control. Designed and integrated **embedded** map components for real-time railway systems, bridging cloud-based platforms with on-board and edge environments.
 
 ### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
