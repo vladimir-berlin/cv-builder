@@ -113,9 +113,13 @@ _Jul 2011 – Feb 2015_
 - Managed a team of 5 engineers; hired and onboarded talent; introduced **Kanban** and **TDD** practices to improve development efficiency and code quality.
 - Collaborated closely with platform, UX, QA, and CI teams to ensure seamless delivery, high performance, and great user experience across devices.
 
+### Earlier Experience · Team Lead / Senior Software Engineer · Kyiv, Ukraine (2001–2011)
+Quest Software · InvisibleCRM · Visiprise · Software MacKiev  
+Worked on enterprise software, automation tools, CRM integrations, and manufacturing systems, progressing from senior engineer to team lead roles.
+<!-- 
 ### **Earlier experience as Team Lead and Senior Software Engineer, Quest Software** · Kyiv Region, Ukraine
 ### Companies: Quest Software, InvisibleCRM, Visiprise, Software MacKiev
-_Aug 2001 – Jul 2011_
+_Aug 2001 – Jul 2011_ -->
 <!-- 
 - Led development of infrastructure automation tools including **Quest Cloud Automation Platform**, **vOptimizer**, and **vConverter**, targeting large-scale hybrid IT environments.
 - Developed backend connectors and synchronization logic for integrating Oracle and Deltek CRM systems with Microsoft Outlook.
