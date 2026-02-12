@@ -8,7 +8,17 @@ Languages: English (fluent), German (intermediate, B1 certificate), Russian (nat
 
 ## **Professional Summary**
 
-Hands-on Principal-level Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. 
+Principal Solution Architect with over 20 years of experience designing and delivering complex distributed systems across **cloud, embedded, and edge platforms**, with a strong focus on **connected mobility and autonomous systems**.
+
+Over the last 6 years at Deutsche Bahn, led architecture and delivery of large-scale platforms combining **IoT, AI/computer vision, real-time data pipelines, and cloud-native infrastructure** for safety-critical autonomous mobility solutions.
+
+Previously worked extensively in the **automotive and connected vehicle domain** at HERE Technologies and Luxoft, contributing to **in-vehicle navigation, embedded map platforms, and cloud-based location services** used by OEMs including **Ford, Volkswagen, and Audi**, as well as R&D initiatives integrating the **HERE Open Location Platform (OLP)** into connected car ecosystems.
+
+Experienced in **end-to-end platform architecture spanning embedded systems, edge environments, and cloud backends**, and in leading distributed teams, customer-facing architecture engagements, and large-scale technical decision-making.
+
+Focused on pragmatic, scalable architecture that delivers measurable business impact.
+
+<!-- Hands-on Principal-level Solution and Software Architect with over 20 years of experience delivering complex systems across cloud, embedded, and web platforms. 
 
 Over the last 6 years at Deutsche Bahn, led architecture and delivery at the intersection of **embedded systems, IoT, AI/computer vision, and cloud** technologies, shaping next-generation autonomous train solutions and high-precision 3D mapping platforms.
 
@@ -16,7 +26,7 @@ Experience working in customer-facing roles, supporting early-stage solution val
 
 **Extensive background in digital maps and navigation**, having contributed to platforms used by **Microsoft**, major **Automotive OEMs**, and **Deutsche Bahn** through roles at Nokia, HERE Technologies, and Deutsche Bahn.
 
-Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture. 
+Skilled in building and scaling cross-functional teams from the ground up — from hiring and tech stack selection to goal setting and delivery. Focused on business impact through pragmatic, scalable architecture.  -->
 
 <!-- **Core Competencies:** Leadership & Team Building · Cost Optimization · 3D Digital Twin · Autonomous Vehicle Systems (Autonomous Train) · AI (Computer Vision in Railway system) · Railway systems -->
 
@@ -66,7 +76,17 @@ Led **open-source activities** for the Digital Maps component within [Sensors4Ra
 - **Platform Architecture across Cloud & Embedded/Edge Systems:**
 Designed scalable **backend systems**, **cloud infrastructure (AWS/Kubernetes)**, including **Kubernetes security configuration, secrets and key management**, and access control. Designed and integrated **embedded** map components for real-time railway systems, bridging cloud-based platforms with on-board and edge environments.
 
-### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
+### Software Architect, Luxoft (projects with HERE Technologies and automotive OEMs) · Berlin, Germany  
+HERE Technologies is a leading provider of automotive navigation and location platforms, powering a large share of in-vehicle navigation systems in Europe. I contributed to solutions used by OEMs including Audi, Volkswagen, and Mercedes-Benz.
+_Oct 2018 – Dec 2019_
+
+- **Led architectural activities for Ford R&D**, defining integration approaches for the **HERE Open Location Platform (OLP)** within connected vehicle and cloud environments.
+- Designed system architecture for integration of the **HERE navigation platform** into **connected vehicle ecosystems**, spanning embedded in-vehicle systems and cloud backends.
+- Delivered architecture and development for **Volkswagen and Audi** programs using **HERE embedded maps and cloud-based location services**.
+- Worked closely with customer and development teams to align architecture across **vehicle, edge, and cloud domains**.
+- Led architectural onboarding and training for new team members, and established structured **knowledge transfer processes** between Luxoft and HERE teams.
+
+<!-- ### **Software Architect, Luxoft (project with HERE Technologies)** · Berlin, Germany
 HERE Technologies is one of the world’s leading automotive navigation providers, powering around 59% of all in-vehicle navigation systems in Europe.
 If you drive a recent Audi, Volkswagen, or Mercedes-Benz, there’s a strong chance the map features you see were part of the solutions I contributed to.
 
@@ -74,7 +94,7 @@ _Oct 2018 – Dec 2019_
 
 - Designed system architecture for integration of the **HERE navigation platform** into automotive embedded and cloud environments.
 - Worked closely with customer and development teams to align navigation system architecture across cloud and embedded domains.
-- Led architectural onboarding and training for new team members, and established a structured **knowledge transfer process** between Luxoft and the client.
+- Led architectural onboarding and training for new team members, and established a structured **knowledge transfer process** between Luxoft and the client. -->
 
 ### **Head of Engineering, Phonedeck (Tech Startup)** · Berlin, Germany
 _Apr 2015 – Aug 2016_
